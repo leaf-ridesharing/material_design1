@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="51.024" height="17.85" viewBox="0 0 51.024 17.85">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Pfad_363" data-name="Pfad 363" d="M183.348,1267.788a.6.6,0,0,0-.579-.613h-7.715a.6.6,0,0,0-.579.613v11.664a.6.6,0,0,0,.579.614h7.715a.6.6,0,0,0,.579-.614Z" transform="translate(-174.475 -1267.174)" clip-rule="evenodd"/>
+    </clipPath>
+  </defs>
+  <g id="Biete" transform="translate(0.5 0.509)" opacity="0.75">
+    <g id="Mittelfinger" transform="translate(32.726 0.62)">
+      <path id="Pfad_357" data-name="Pfad 357" stroke="#e3e3e3" d="M497.549,77.309l10.529-4.862a1.839,1.839,0,0,1,1.512-.017,1.987,1.987,0,0,1,1,.984c-3.385,1.553-8.42,3.866-8.422,3.89Z" fill="none" transform="translate(-497.549 -72.276)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="1" fill-rule="evenodd"/>
+    </g>
+    <g id="Ringfinger" transform="translate(31.559 0.632)">
+      <path id="Pfad_358" data-name="Pfad 358" stroke="#e3e3e3" d="M480.364,77.479a2.343,2.343,0,0,0-.215-.716,2.252,2.252,0,0,0-.337-.506l7.866-3.632a1.839,1.839,0,0,1,1.512-.017,1.959,1.959,0,0,1,.83.691l-9.041,4.175h-.6Z" fill="none" transform="translate(-479.812 -72.455)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="1" fill-rule="evenodd"/>
+    </g>
+    <g id="Hand-und-Zeigefinger" transform="translate(8.873 0.926)">
+      <path id="Pfad_359" data-name="Pfad 359" stroke="#e3e3e3" d="M220.458,1497.827l5.218-.005c0-.028,6.7-3.1,9.84-4.54a2.02,2.02,0,0,1,2.556.791h0a1.822,1.822,0,0,1,.244,1.344,1.74,1.74,0,0,1-.75,1.115l-9.678,6.245-14.421,6.168a.819.819,0,0,1-.609.015l-12.143-4.522a.874.874,0,0,0-.14-.038l-3.368-.613" fill="none" transform="translate(-197.207 -1493.1)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="1" fill-rule="evenodd"/>
+    </g>
+    <g id="Daumen" transform="translate(8.873)">
+      <path id="Pfad_360" data-name="Pfad 360" stroke="#e3e3e3" d="M197.207,1482.5l.794-.032a34.092,34.092,0,0,1,3.548-1.956,8.712,8.712,0,0,1,1.545-.474,7.579,7.579,0,0,1,2.979-.136c3.21.745,9.545,2.683,12.864,3.718a2.154,2.154,0,0,1,1.293,1.128,2.369,2.369,0,0,1,.119,1.769h0a2,2,0,0,1-2.372,1.376l-8.818-2.23" fill="none" transform="translate(-197.207 -1479.804)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="1" fill-rule="evenodd"/>
+    </g>
+    <g id="Kleiner-Finger" transform="translate(30.067 0.804)">
+      <path id="Pfad_361" data-name="Pfad 361" stroke="#e3e3e3" d="M457.131,77.765v-.011l5.761-2.66a1.839,1.839,0,0,1,1.512-.017,1.939,1.939,0,0,1,.677.495l-6.458,2.982a2.108,2.108,0,0,0-.956-.622Z" fill="none" transform="translate(-457.13 -74.923)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="1" fill-rule="evenodd"/>
+    </g>
+    <g id="Ärmel" transform="translate(0 0.68)">
+      <path id="Pfad_362" data-name="Pfad 362" d="M183.348,1267.788a.6.6,0,0,0-.579-.613h-7.715a.6.6,0,0,0-.579.613v11.664a.6.6,0,0,0,.579.614h7.715a.6.6,0,0,0,.579-.614Z" transform="translate(-174.475 -1267.174)" fill="none" stroke="#e3e3e3" stroke-width="0.805" fill-rule="evenodd"/>
+      <g id="Gruppe_278" data-name="Gruppe 278" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <g id="Gruppe_277" data-name="Gruppe 277" transform="translate(4.437 8.491)">
+          <ellipse id="Ellipse_79" data-name="Ellipse 79" cx="1.409" cy="1.416" rx="1.409" ry="1.416" transform="translate(0 0)" fill="#e3e3e3"/>
+        </g>
+      </g>
+      <path id="Pfad_364" data-name="Pfad 364" stroke="#e3e3e3" d="M183.348,1267.788a.6.6,0,0,0-.579-.613h-7.715a.6.6,0,0,0-.579.613v11.664a.6.6,0,0,0,.579.614h7.715a.6.6,0,0,0,.579-.614Z" fill="none" transform="translate(-174.475 -1267.174)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="1" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
